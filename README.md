@@ -27,7 +27,7 @@ O Gateway distribui as solicitações para o micro um serviço específico respo
 -------------------------------------------------------------------------------------
 Projeto desenvolvido na diolive.
 
-Aula por Oswaldo Neto
+Especialista: Oswaldo Neto
 
 
 
